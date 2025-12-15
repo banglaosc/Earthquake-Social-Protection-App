@@ -168,7 +168,7 @@ This project will **always**:
 
 This project aligns with **BNB Chain / Binance Web3 ecosystem** for identity verification and wallet-based trust.
 
-* **Binance Official Website:** [https://www.binance.com/join?ref=35023868](https://www.binance.com/)
+* **Binance Official Website:** [https://www.binance.com/](https://www.binance.com/join?ref=35023868)
 * **Binance Web3 Wallet:** [https://www.binance.com/en/web3wallet](https://www.binance.com/en/web3wallet)
 * **BNB Smart Chain (BNB Chain):** [https://www.bnbchain.org/](https://www.bnbchain.org/)
 * **BNB Chain Documentation:** [https://docs.bnbchain.org/](https://docs.bnbchain.org/)
